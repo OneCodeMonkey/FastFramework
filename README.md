@@ -1,2 +1,2 @@
 # FastFramework
-A fast and flexible PHP framework with swoole and other components.
+A fast and flexible PHP framework based on swoole4.
